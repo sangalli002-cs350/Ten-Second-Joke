@@ -12,6 +12,8 @@ Services used
 - APIs
 - SNS
 
+(Cron is currently disabled to avoid spam and excess charges to the account)
+
 Architecture Diagram
 
 ![Architecture diagram](https://user-images.githubusercontent.com/91676824/205727593-a8f3f925-f0a8-4314-8c0a-e63e9e5f4fdb.jpg)
