@@ -4,6 +4,8 @@ http://54.88.23.89:8080/
 
 enter your friends email and they will be sent a random joke every 10 seconds
 
+Credentials are stored inside of the instance so there is no risk of uploading the account credentials to github when code is updated.
+
 Services used
 - EC2
 - Cron
